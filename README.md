@@ -37,5 +37,5 @@ Schedual:
 11.14 - 11.21 : apply the algorithm to find the left and right conner points, and fit the contour
 11.21 - 11.28 : add the color to lip according to the light condition, add control bar to adjust color
 11.28 - 12.05 : write the code to tracking the key points, and calculate the new contour realtime
-12.05 - 12.15 : test and prepare the final presentation
+12.05 - 12.10 : test and prepare the final presentation
 
