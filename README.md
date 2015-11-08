@@ -4,7 +4,7 @@ Title:
 
 Lip Countour Detection and Tracking
 
-Team Member: 
+Team Members: 
 
 Chen Ma, Enxhell Luzhnica, Aditya Sharma
 
