@@ -29,11 +29,13 @@ The Challenge:
 
 Goals & Deliverables:
 
-PLAN TO ACHIEVE (In that order): 
+PLAN TO ACHIEVE (In that order):
+
 1. Successfully perform lip contour detection on a static image.
 2. Extend the detections above to real-time incoming video stream to enable tracking of the contours.
 
 HOPE TO ACHIEVE (Any one and in best case scenario, both):
+
 3. Create a virtual lipstick tester app.
 4. Create a lip reading app.
 
@@ -41,15 +43,22 @@ Evaluation of success:
 
 In the scenarios described above, the project will be considered a success if, and would be demonstrated as:
 1. Take an image using the iPad camera and perform lip contour detection on it. This can be shown as videos or screenshots.
+
 2. Take a live video stream, detect and track the lip contour. This can be shown as a video.
+
 3. Take a live video stream, let the user select a color, and display virtual lipstick of that color on the user's lips in the stream. This can be shown as a video or a live demonstration.
+
 4. Let the user speak one of ten pre-decided words, and have the app guess the user's spoken word by reading his/her lips. This can be shown as a video or a live demonstration.
 
 
 Schedule:
 11.8 - 11.14 : apply mouth detection, jump snake algorithm to find the interest points
+
 11.14 - 11.21 : contour detection
+
 11.21 - 11.28 : real-time tracking
+
 11.28 - 12.05 : Virtual Lipstick tester app / Lip reading app
+
 12.05 - 12.10 : final testing, documentation, presentations etc.
 
