@@ -1,6 +1,8 @@
 function [ p ] = LuKa( tmplt, img, pinit)
 %TESTWITHDYNAMICTEMPLATE Summary of this function goes here
 %   Detailed explanation goes here
+% author : Enxhell Luzhnica (code modified from Simon Lucey) 
+
 P = 6;
 p = pinit;
 

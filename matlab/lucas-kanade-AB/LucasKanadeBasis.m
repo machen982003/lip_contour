@@ -1,6 +1,6 @@
 function [ u,v ] = LucasKanadeBasis( It, It1, rect, bases, init_guess )
 %LUCASKANADEBASIS Summary of this function goes here
-%   Detailed explanation goes here
+% author : Enxhell Luzhnica  
 
 if (~exist('init_guess', 'var') || isempty(init_guess))
     init_guess = [0;0];

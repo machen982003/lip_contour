@@ -1,6 +1,8 @@
 function [ p ] = LucasKanadePolygon( T_0, img, mask, pinit)
 %TESTWITHDYNAMICTEMPLATE Summary of this function goes here
 %   Detailed explanation goes here
+% author : Enxhell Luzhnica
+
 dsize = [size(T_0,1), size(T_0,2)];
 P = 6;
 p = pinit;

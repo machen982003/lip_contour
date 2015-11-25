@@ -1,5 +1,7 @@
 %TRACKPOINTS Summary of this function goes here
 %   Detailed explanation goes here
+% author : Enxhell Luzhnica
+
 
 v = VideoReader('enxhi.mov');
 frame = readFrame(v);

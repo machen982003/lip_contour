@@ -1,3 +1,5 @@
+% Author : Enxhell Luzhnica
+
 vid = VideoReader('enxhi.mov');
 frame = readFrame(vid);
 
